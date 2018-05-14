@@ -1,0 +1,33 @@
+{
+  "name": "number-formatter",
+  "version": "1.0.0",
+  "description": "A package to format numbers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "engines": {
+    "node": ">=4.4.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strongSoda/number-formatter.git"
+  },
+  "keywords": [
+    "npm",
+    "package",
+    "number",
+    "fomat",
+    "module"
+  ],
+  "author": "Imran Khan <ikhan77727@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/strongSoda/number-formatter/issues"
+  },
+  "homepage": "https://github.com/strongSoda/number-formatter#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.1.1"
+  }
+}
