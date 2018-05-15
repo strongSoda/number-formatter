@@ -1,6 +1,6 @@
 {
   "name": "format-numericles",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A package to format numbers.",
   "main": "index.js",
   "scripts": {
