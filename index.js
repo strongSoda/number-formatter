@@ -6,6 +6,17 @@
  * @param {string} locale
  * @return {string}
  */
+
 module.exports = function(number, locale) {
     return number.toLocaleString(locale);
 };
+
+function(locale) {
+    
+    if(locale==="") 
+        return -1;
+    
+    else 
+        return 1;
+    
+}
